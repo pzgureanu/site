@@ -1,0 +1,2 @@
+# site
+Laravel base template
